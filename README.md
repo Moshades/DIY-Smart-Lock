@@ -1,4 +1,3 @@
-DIY ATMEGA SMART LOCK PROJECT
 OVERVIEW:
 This repository contains the source code, simulation, and documentation for my homemade Atmega smart lock project.
 The project aims to create a secure and customizable smart lock system using Atmega microcontrollers.
